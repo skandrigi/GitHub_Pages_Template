@@ -1,10 +1,6 @@
 # Lung and Colon Cancer Classification
 
-(UPDATE IN README.md)
-Briefly describe the purpose/result(s) of your project, the skills you applied, and the Apply AI program.
-
-*EXAMPLE:*
-*Uncovered and meticulously analyzed three distinct biases present in ChatGPT, employing advanced Python techniques and data analysis methodologies, all within AI4ALL's cutting-edge AI4ALL Ignite accelerator.*
+*Implemented machine learning algorithms to differentiate between cancerous and benign lung cells, enhancing early diagnosis of lung cancer. Leveraged skills in ML, data analysis, and computational biology within AI4ALL's program, showcasing AI's impactful role in healthcare.*
 
 
 ## Problem Statement <!--- do not change this line -->
