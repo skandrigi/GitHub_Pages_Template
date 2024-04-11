@@ -1,6 +1,6 @@
 # Lung and Colon Cancer Classification
 
-*Implemented machine learning algorithms to differentiate between cancerous and benign lung cells, enhancing early diagnosis of lung cancer. Leveraged skills in ML, data analysis, and computational biology within AI4ALL's program, showcasing AI's impactful role in healthcare.*
+*Implemented machine learning algorithms to differentiate between cancerous and benign lung cells, enhancing early diagnosis of lung cancer. Leveraged skills in ML, data analysis, and computational biology within AI4ALL's Ignite program, showcasing AI's impactful role in healthcare.*
 
 
 ## Problem Statement <!--- do not change this line -->
