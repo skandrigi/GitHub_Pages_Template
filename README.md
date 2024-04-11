@@ -32,7 +32,7 @@ Finally, we visualized the evaluation results using Matplotlib, enabling clear i
 
 ## Data Sources <!--- do not change this line -->
 
-*Cornell Lung and Colon Cancer Histopathological Image Dataset: https://arxiv.org/abs/1912.12142*
+*Lung and Colon Cancer Histopathological Images: https://www.kaggle.com/datasets/andrewmvd/lung-and-colon-cancer-histopathological-images/code*
 
 ## Technologies Used <!--- do not change this line -->
 
