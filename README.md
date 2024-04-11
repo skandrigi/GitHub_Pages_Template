@@ -39,7 +39,7 @@ Finally, we visualized the evaluation results using Matplotlib, enabling clear i
 - *Python*
 - *pandas*
 - *scikit-learn*
-- *MatPlotLib*
+- *Matplotlib*
 - *PyTorch*
 - *NumPy*
 
