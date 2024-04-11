@@ -9,11 +9,7 @@ Briefly describe the purpose/result(s) of your project, the skills you applied, 
 
 ## Problem Statement <!--- do not change this line -->
 
-(UPDATE IN README.md)
-Describe the motivation for this project, why it is relevant, and what its impacts are.
-
-*EXAMPLE:*
-*Given the substantial daily output of responses, the identification and mitigation of ChatGPT's biases become critical, safeguarding both the multitude of users and the far-reaching consequences they may influence.*
+*The motivation behind the project of using machine learning and tools to distinguish between cancerous and benign cells in human lungs stems from the urgent need to improve early detection and diagnosis of lung cancer. Lung cancer remains one of the leading causes of cancer-related deaths worldwide, with a high mortality rate often attributed to late-stage diagnoses.*
 
 ## Key Results <!--- do not change this line -->
 
