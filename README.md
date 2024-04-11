@@ -22,13 +22,15 @@ Enumerate the main results of this project in a list and describe them.
 
 ## Methodologies <!--- do not change this line -->
 
-*We started the project by utilizing the Kaggle API within a Python environment in Google Colab to procure lung histopathological images from Kaggle. Then, we employed pandas for data preprocessing and organization, ensuring uniformity across the dataset.
+*
+We started the project by utilizing the Kaggle API within a Python environment in Google Colab to procure lung histopathological images from Kaggle. Then, we employed pandas for data preprocessing and organization, ensuring uniformity across the dataset.
 
 For model training, we fine-tuned a Vision Transformer (ViT) model using PyTorch, a powerful deep learning framework. Throughout the training process, we leveraged NumPy for efficient numerical computations and utilized Matplotlib for advanced visualization of training progress.
 
 Following model training, we evaluated the model's performance on a separate testing dataset using scikit-learn for computing key evaluation metrics such as precision, recall, F1 score, and accuracy. Additionally, we utilized Matplotlib for generating a confusion matrix, providing deeper insights into the model's classification performance.
 
-Finally, we visualized the evaluation results using Matplotlib, enabling clear interpretation of the model's performance. This systematic approach, integrating various technologies and leveraging TensorBoard for monitoring, facilitated the development and assessment of a robust image classification model for lung histopathological images.*
+Finally, we visualized the evaluation results using Matplotlib, enabling clear interpretation of the model's performance. This systematic approach, integrating various technologies and leveraging TensorBoard for monitoring, facilitated the development and assessment of a robust image classification model for lung histopathological images.
+*
 
 ## Data Sources <!--- do not change this line -->
 
