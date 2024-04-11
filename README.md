@@ -39,29 +39,21 @@ Enumerate the main results of this project in a list and describe them.
 
 ## Data Sources <!--- do not change this line -->
 
-(UPDATE IN README.md)
-Include any relevant data sources that were used in your project.
-
-*EXAMPLE:*
-*Kaggle Datasets: [Link to Kaggle Dataset](https://www.kaggle.com/datasets)*
+*Cornell Lung and Colon Cancer Histopathological Image Dataset: https://arxiv.org/abs/1912.12142*
 
 ## Technologies Used <!--- do not change this line -->
 
-(UPDATE IN README.md)
-List the technologies, libraries, and frameworks used in your project.
-
-*EXAMPLE:*
 - *Python*
 - *pandas*
-- *OpenAI API*
+- *scikit-learn*
+- *MatPlotLib*
+- *PyTorch*
+- *NumPy*
 
 
 ## Authors <!--- do not change this line -->
 
-(UPDATE IN README.md)
-List the names and contact information (e.g., email, GitHub profiles) of the authors or contributors.
-
-*EXAMPLE:*
 *This project was completed in collaboration with:*
-- *John Doe ([john.doe@example.com](mailto:john.doe@example.com))*
-- *Jane Smith ([jane.smith@example.com](mailto:jane.smith@example.com))*
+- *Gabriel Wild ([gabew2024@tamu.edu](mailto:gabew2024@tamu.edu))*
+- *Elizabeth Monser ([emonser@terpmail.umd.edu](mailto:emonser@terpmail.umd.edu))*
+- *Sandeep Kandrigi ([skandrigi1@tamu.edu](mailto:skandrigi1@tamu.edu))*
