@@ -8,14 +8,14 @@
 *The motivation behind the project of using machine learning and tools to distinguish between cancerous and benign cells in human lungs stems from the urgent need to improve early detection and diagnosis of lung cancer. Lung cancer remains one of the leading causes of cancer-related deaths worldwide, with a high mortality rate often attributed to late-stage diagnoses.*
 
 ## Key Results <!--- do not change this line -->
-The model can be retrieved at ebmonser/lung-cancer-image-classification on huggingface
-The model acheives the following results on the testing set:
-Loss: 0.0177
-Precision: 0.9963
-Recall: 0.9963
-F1: 0.9963
-Accuracy: 0.9963
-Confusion matrix: 1245 1 4 0 1250 0 9 0 1241
+The model can be retrieved at https://huggingface.co/ebmonser/lung-cancer-image-classification
+The model achieves the following results on the testing set:
+1. Loss: 0.0177
+2. Precision: 0.9963
+3. Recall: 0.9963
+4. F1: 0.9963
+5. Accuracy: 0.9963
+6. Confusion matrix: 1245 1 4 0 1250 0 9 0 1241
 
 ## Methodologies <!--- do not change this line -->
 
